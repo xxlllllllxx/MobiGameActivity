@@ -1,0 +1,1 @@
+color_enable = c_blue;
